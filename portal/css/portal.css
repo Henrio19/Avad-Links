@@ -1,0 +1,97 @@
+body {
+    background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 50%);
+    
+}
+
+.nav-logo {
+    width: 30px;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+#gadg {
+    font-weight: normal;
+    font-size: small;
+    color: #e979ac;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    nav strong {
+
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    }
+    
+    #backgroundImage {
+
+        width: 680px;
+        height: 500px;
+        background-image: url('../../img/Asset\ 3@2x_103644.png');
+        background-position: center;
+        background-size: cover;
+        position: fixed;
+        left: 400px;
+        top: 90px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        opacity: 0.02;
+        
+    
+    }
+
+    #portalImage {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #portalImage img {
+
+        width: 400px;
+
+    }
+
+
+
+
+
+    #footerMotive {
+
+        font-weight: normal;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 10px 0 -17px 0;
+        opacity: 0.8;
+    }
+
+    .footerEmoji {
+
+        width: 15px;
+        height: 13px;
+        margin: 0 4px 3px 4px;
+    }
+    
+    .footer {
+    
+        width: 100%;
+        height: 100px;
+        background-color: black;
+        z-index: 3;
+    }
+    .footer hr {
+        color: white;
+        position: relative;
+        top: 50px;
+    }
+    .footer p {
+        font-size: large;
+        font-weight: bold;
+        color: white;
+        position: relative;
+        top: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
