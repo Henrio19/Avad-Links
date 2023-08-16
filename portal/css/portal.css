@@ -1,6 +1,8 @@
 body {
-    background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 50%);
-    
+    /* background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 50%); */
+    background-color: #e979ac;
+    background: linear-gradient( to right,  white,  white, #e979ac);
+
 }
 
 .nav-logo {
@@ -12,7 +14,7 @@ body {
 #gadg {
     font-weight: normal;
     font-size: small;
-    color: #e979ac;
+    color: #e968a2;
     font-style: italic;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
@@ -48,7 +50,7 @@ body {
     }
     #portalImage img {
 
-        width: 400px;
+        width: 500px;
 
     }
 
