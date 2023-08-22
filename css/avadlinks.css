@@ -46,13 +46,20 @@ body {
 
     font-size: large;
     /* color: white; */
-    font-family: cursive;
+    font-family: "Trebuchet MS", sans-serif;
     border-radius: 5px;
 }
 #flyerText p:last-child {
 
     font-weight: bolder;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.containers div div:hover {
+    transition: 0.3s;
+    color: white;
+    background-color: #14041D;
+    
+    
 }
 
 #footerMotive {
@@ -76,7 +83,7 @@ body {
 
     width: 100%;
     height: 100px;
-    background-color: black;
+    background-color: #0a0210;
     z-index: 3;
 }
 .footer hr {
